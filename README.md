@@ -1,6 +1,7 @@
 # Gilded Rose
 
 This is the Gilded Rose kata in TypeScript.
+Requirements are detailed in GildedRoseRequirements.txt
 
 ## Getting started
 
