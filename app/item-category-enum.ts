@@ -8,5 +8,6 @@ export enum ItemCategory {
     APPRECIATING_ITEMS = 'appreciating_items',
     DEPRECIATING_ITEMS = 'depreciating_items',
     ASSETS = 'assets',
-    SPECIAL_ITEMS = 'special_items'
+    SPECIAL_ITEMS = 'special_items',
+    CONJURED_ITEMS = 'conjured_items'
 }
